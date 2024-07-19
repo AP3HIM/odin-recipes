@@ -1,0 +1,1 @@
+This project is a recipes project. It is about making 3 recipes and then linking it to one index page. The recipes should have ingredients,steps, and images. This helps me demonstrate my skills of links and images, ordered and unordered lists, and HTML.
